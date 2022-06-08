@@ -11,8 +11,5 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-qpdf": "^1.0.3",
-    "pdfjs-dist": "^2.14.305",
-    "qpdf.js": "^1.0.0"
   }
 }
